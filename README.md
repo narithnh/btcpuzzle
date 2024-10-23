@@ -1,1 +1,1 @@
-# btc-puzzle
+# btcpuzzle
